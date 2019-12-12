@@ -1,0 +1,9 @@
+#box { 
+    width: 100px; 
+    height: 100px; 
+    position: absolute; 
+    background: gray; 
+    left: 200px; 
+    top: 200px;
+    background-image: url(src/3f4c4e8f-7837-414f-8bbc-678b425c19d1.jpg)
+}
