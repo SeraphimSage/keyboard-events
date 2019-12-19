@@ -5,10 +5,10 @@ document.addEventListener('keydown', logKey);
 
 function logKey(event) {
   if(event.code == "ArrowUp"){
-      boxTop += 10;
+      boxTop -= 10;
   }
   if(event.code == "ArrowDown"){
-      boxTop -= 10;
+      boxTop += 10;
   }
   if(event.code == "ArrowLeft"){
       boxLeft -= 10;
